@@ -1,5 +1,10 @@
 # Project 4 - SQL & Visualization Trough Tableau
 
+## Tableau visualization: 
+
+https://public.tableau.com/app/profile/miquel.puig2127/viz/WineAnalysis_17004994265000/WineAnalysis?publish=yes
+
+
 We are a newly funded wine company from Europe, we want to produce red and white wine. We are starting in the following months, and we are deciding the fundamental aspects of our company. 
 Through this project we want to decide which is the best location for the company for each variety of wine, we will have two locations, one location for the red wine and another one for the white one. We'll decide the location based on the wine production of each country and the wine rating. 
 We also want to settle the price for our two wines based on the market value.
@@ -43,6 +48,9 @@ In this part, we focused on the companies requirements. We had to decide a locat
 ### Location
 
 For this part, I wanted to find the ideal location for our winery. To select the location I took into the account the number of wines produced by country, selecting an interval rating, different for each wine. We looked into these criteria as the company wants to be surrounded by similar wineries to increase the know-how and see the best practices of this companies.
+
+![image](https://github.com/Miquelpg6/project_4/blob/main/IMAGES/Country_production.png?raw=true)
+
 
 - White Wine:
 
@@ -88,3 +96,6 @@ Our white winery will be settled in Pfalz (Renania-Palatinado), Germany. The ini
 
 Our Red winery will be settled in the Gran Saint Emilion region, Italy. It will have an initial price of 15,60€ and the countries of exportation will be France, Spain, South Africa, Chile, Germany, Australia and Argentina.
 
+![image](https://github.com/Miquelpg6/project_4/blob/main/IMAGES/white_wine_analysis.png?raw=true)
+
+![image](https://github.com/Miquelpg6/project_4/blob/main/IMAGES/red_wine_analysis.png?raw=true)
