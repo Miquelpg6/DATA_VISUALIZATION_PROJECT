@@ -94,7 +94,7 @@ After the analysis, we find that:
 
 Our white winery will be settled in Pfalz (Renania-Palatinado), Germany. The initial price for the wine will be 12,08€ and the countries of exportation will be Italy, South Africa, Spain, United States, Chile, Australia and Argentina
 
-Our Red winery will be settled in the Gran Saint Emilion region, Italy. It will have an initial price of 15,60€ and the countries of exportation will be France, Spain, South Africa, Chile, Germany, Australia and Argentina.
+Our Red winery will be settled in the Tuscany region, Italy. It will have an initial price of 15,60€ and the countries of exportation will be France, Spain, South Africa, Chile, Germany, Australia and Argentina.
 
 ![image](https://github.com/Miquelpg6/project_4/blob/main/IMAGES/white_wine_analysis.png?raw=true)
 
